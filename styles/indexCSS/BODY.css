@@ -1,0 +1,21 @@
+/* importaciones */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif, Arial, Helvetica;
+    text-decoration: none;
+    list-style: none; /*esto es una lista*/
+    transition: 300ms;
+}
+#body {transition: 0.5s;}
+hr {
+    color: black;
+    background-color: blueviolet;
+    width: cal(100% - 4px);
+    border: 0.00001px solid black;
+}
+.container {
+    max-width: 1018px;
+    margin: 0px auto;
+    /* background-color: rgb(209, 115, 0); */
+}
